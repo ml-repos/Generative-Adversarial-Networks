@@ -4,4 +4,5 @@
 
 <h3> FILES (ipynb, TensorFlow)</h3><br/>
 1. Generate Synthetic Images with 'Deep Convolutional Generative Adversarial Networks'<br/>
-2. Understanding DeepFakes usign GANs.<br/>
+2. Understanding DeepFakes usign GANs.<br/><br/>
+<img src='https://github.com/ml-repos/Generative-Adversarial-Networks/blob/master/dcgan_demo.gif' alt="DCGANs-using-Keras" width="500" height="500">
